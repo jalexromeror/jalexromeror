@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**jalexromeror/jalexromeror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+:computer: **Data scientist**
+:pencil: **Estudiante**
+:eyeglasses: **Lector** (¿Es buen lector?)
+:oncoming_automobile: **Fan de los autos**
+:family: **Defensor de la familia**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Vías de contacto
+
+![Website](https://img.shields.io/badge/jalexromeror-up-brightgreen?style=for-the-badge)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jalexromeror/jalexromeror)
