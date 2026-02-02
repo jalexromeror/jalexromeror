@@ -4,7 +4,7 @@
 :computer: **Data scientist**
 :pencil: **Estudiante**
 :eyeglasses: **Lector** (¿Es buen lector?)
-:oncoming_automobile: **Fan de los autos**
+🚘 **Fan de los autos**
 :family: **Familia**
 
 ### Vías de contacto
