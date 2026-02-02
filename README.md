@@ -5,7 +5,7 @@
 :pencil: **Estudiante**
 :eyeglasses: **Lector** (¿Es buen lector?)
 :oncoming_automobile: **Fan de los autos**
-:family: **Defensor de la familia**
+:family: **Familia**
 
 ### Vías de contacto
 
