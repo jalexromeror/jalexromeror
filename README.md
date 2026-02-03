@@ -14,11 +14,5 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jalexromeror/jalexromeror)
 
 ### :zap: Actividad reciente
-
-<!--START\_SECTION:activity-->
-<!--END\_SECTION:activity-->
-
-Otra actividad reciente
-
 <!--RECENT\_ACTIVITY:start-->
 <!--RECENT\_ACTIVITY:last\_update-->
