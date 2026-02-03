@@ -12,3 +12,8 @@
 ![Website](https://img.shields.io/badge/jalexromeror-up-brightgreen?style=for-the-badge)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/jalexromeror/jalexromeror)
+
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
